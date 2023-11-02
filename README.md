@@ -1,2 +1,2 @@
 # JS-Chai-aur-Code
-a code repo for javascript series at chai aur code youtube channel
+this is my fisrt git repositories
